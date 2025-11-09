@@ -17,7 +17,7 @@ Implements dynamic node linking, promotion logic, and balanced block utilization
 
   Technologies
 - **Language:** C++17  
-- **Paradigms:** OOP, Templates, Pointers, Recursion  
+- **Paradigms:** Pointers, Recursion  
 - **Tools:** CLion / g++, Linux / macOS  
 
 ---
